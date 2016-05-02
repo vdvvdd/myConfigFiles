@@ -1,0 +1,7 @@
+alias rm='rm -iv'
+alias mv='mv -i'
+alias cp='cp -iv'
+alias c='clear'
+alias gcc='gcc -W -Wall'
+alias grep='grep --color'
+alias h='history'
